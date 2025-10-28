@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data cleaning, exploratory data analysis (EDA), dashboards, and actionable insights using Python or Tableau.**
 
-- 📫 How to reach me | [LinkedIn](https://linkedin.com/in/johndom10) **john.immunomx@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/johndom10**
 
 - ⚡ Fun fact **⚡ Fun fact I completed a 6-month Data Analytics Bootcamp in just 3 months 🚀**
 
