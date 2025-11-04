@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Dominguez</h1>
 <h3 align="center">A passionate Data Analyst transforming data into actionable business insights.</h3>
 
-![Texto](Banner.png).
+<p align="center">
+  <img src="Banner.png" width="600" alt="Dashboard del Proyecto">
+</p>
 
 - 🧠 I’m currently **learning Advanced SQL optimization, DAX for Power BI, and data storytelling techniques.**
 
