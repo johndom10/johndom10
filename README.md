@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst transforming data into actionable business insights.</h3>
 
 <p align="center">
-  <img src="johndom10/Banner .png" width="600" alt="Dashboard del Proyecto">
+  <img src="Imagnes/Banner .png" width="600" alt="Dashboard del Proyecto">
 </p>
 
 - 🧠 I’m currently **learning Advanced SQL optimization, DAX for Power BI, and data storytelling techniques.**
